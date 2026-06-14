@@ -1,7 +1,8 @@
-# Auto Buy (Card2K Discord Bot)
+# Auto Buy (Stela Auto Buy Bot ) 
+
 
 ## Giới thiệu
-Đây là dự án Discord Bot tích hợp Card2K để nạp thẻ cào tự động.
+Đây là dự án Discord Bot tích hợp để nạp thẻ cào .
 
 ## Công nghệ sử dụng
 - Node.js
@@ -32,5 +33,5 @@ npm run dev
 - `package.json` - Cấu hình dự án
 
 ## Package
-Tên package: `card2k-bot`
+Tên package: `stela-auto`
 Phiên bản: `1.0.0`
