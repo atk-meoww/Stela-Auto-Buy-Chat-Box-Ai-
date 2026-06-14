@@ -1,0 +1,37 @@
+{
+  "users": {
+    "1472930181537595423": {
+      "points": 0,
+      "totalDeposited": 0
+    },
+    "1265194361004752970": {
+      "points": 9570600,
+      "totalDeposited": 600000
+    },
+    "1443420320404078667": {
+      "points": 3600000,
+      "totalDeposited": 0
+    },
+    "1462762186295218309": {
+      "points": 0,
+      "totalDeposited": 0
+    },
+    "1308799500369924120": {
+      "points": 0,
+      "totalDeposited": 0
+    },
+    "1176465413408829530": {
+      "points": 0,
+      "totalDeposited": 0
+    },
+    "1169646637845581896": {
+      "points": 0,
+      "totalDeposited": 0
+    }
+  },
+  "staff": {
+    "admins": [],
+    "moderators": []
+  },
+  "pendingPayments": {}
+}

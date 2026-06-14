@@ -1,0 +1,17 @@
+{
+  "name": "card2k-bot",
+  "version": "1.0.0",
+  "description": "Discord bot tích hợp Card2K - nạp thẻ cào tự động",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "discord.js": "^14.15.0",
+    "dotenv": "^16.4.0",
+    "express": "^4.19.0",
+    "groq-sdk": "^1.2.1"
+  }
+}
