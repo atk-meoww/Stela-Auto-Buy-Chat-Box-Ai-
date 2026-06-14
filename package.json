@@ -1,7 +1,7 @@
 {
-  "name": "card2k-bot",
+  "name": "stela-auto",
   "version": "1.0.0",
-  "description": "Discord bot tích hợp Card2K - nạp thẻ cào tự động",
+  "description": "Discord bot tích hợp - nạp thẻ cào ",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
